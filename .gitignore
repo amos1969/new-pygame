@@ -84,6 +84,7 @@ celerybeat-schedule
 venv/
 ENV/
 myvenv/
+myvenv/*
 
 # Spyder project settings
 .spyderproject
@@ -130,6 +131,7 @@ pip-selfcheck.json
 .idea/mongoSettings.xml
 
 .idea/
+.idea/*
 
 ## File-based project format:
 *.iws
