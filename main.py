@@ -598,7 +598,7 @@ def createObjects():
     btnEndGoRect.y = 300
 
     DISPLAYSURF = pygame.display.set_mode(background.get_size())
-    pygame.display.set_caption("AQADo")
+    pygame.display.set_caption("LuBiDaDo")
 
     messageFont = pygame.font.SysFont("Arial", 20)
     myFont = pygame.font.SysFont("Arial", 30)
